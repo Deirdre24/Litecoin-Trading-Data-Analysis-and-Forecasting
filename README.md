@@ -1,5 +1,7 @@
 # Litecoin-Trading-Data-Analysis-and-Forecasting
 
+![Alt text](url)
+
 **1. Project Overview**
 
 **Purpose:** This project analyzes historical Litecoin (LTC) trading data to identify patterns, forecast future trends, and generate insights valuable for cryptocurrency enthusiasts, data analysts, and investors.
