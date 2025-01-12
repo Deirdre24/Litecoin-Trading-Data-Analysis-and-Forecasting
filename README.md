@@ -98,10 +98,6 @@ Litecoin-Trading-Analysis/
 
 This project is for educational and informational purposes only. It does not constitute financial advice. Cryptocurrency investments involve significant risks, and past performance is not indicative of future results.
 
-**11. License**
-**12. Contact**
-
-
 
 This README provides a comprehensive overview of the Litecoin Trading Data Analysis and Forecasting project. It aims to be clear, concise, and informative for both technical and non-technical audiences.
 
