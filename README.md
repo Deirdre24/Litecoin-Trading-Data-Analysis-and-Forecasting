@@ -1,6 +1,6 @@
 # Litecoin-Trading-Data-Analysis-and-Forecasting
 
-![Alt text](url)
+![Alt text](https://github.com/Deirdre24/Litecoin-Trading-Data-Analysis-and-Forecasting/blob/main/Screenshot%20(445).png?raw=true)
 
 **1. Project Overview**
 
